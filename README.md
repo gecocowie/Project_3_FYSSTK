@@ -1,11 +1,10 @@
 # Project 3 FYS-STK 4155
 In this project i have used Random Forest and Multi-layer perceptron regression to model the snow water equivalent in the californian Toulumne basin. 
 
-## Repo stucture
-In this repository There are three jupyter notebook scripts, one for loading the 
-
+## Repo contents
+### PDF
+**Project3_FYSSTK_final_version.pdf** Final Report
 ### Folders
-*test_runs:* Selected prediction results and the test and training data that was used to create the results
 *Data:* Folder containing the data used in this project. The data consists of static terrain features and Snow water equivalent measurements
 *Figs:* Folder containing the figures used in the report
 ### Scripts
